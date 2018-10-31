@@ -17,7 +17,7 @@
 # Please file any issues or PRs at https://github.com/gocd/docker-gocd-agent
 ###############################################################################################
 
-FROM centos:7
+FROM fedora:29
 MAINTAINER GoCD <go-cd-dev@googlegroups.com>
 
 LABEL gocd.version="18.10.0" \
