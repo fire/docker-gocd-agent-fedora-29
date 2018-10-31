@@ -21,7 +21,7 @@ FROM fedora:29
 MAINTAINER GoCD <go-cd-dev@googlegroups.com>
 
 LABEL gocd.version="18.10.0" \
-  description="GoCD agent based on centos version 7" \
+  description="GoCD agent based on Fedora version 29" \
   maintainer="GoCD <go-cd-dev@googlegroups.com>" \
   gocd.full.version="18.10.0-7703" \
   gocd.git.sha="42d1cbe661161b5400289ead86c0447c84af8c0a"
